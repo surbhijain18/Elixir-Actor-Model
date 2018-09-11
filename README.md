@@ -1,6 +1,5 @@
 # Newproj1
 
-**TODO:
 RUNNING ON 2+ MACHINES:
 STEPS:
 
